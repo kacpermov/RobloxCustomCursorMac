@@ -1,8 +1,8 @@
 #!/bin/sh
 
-kill -9 $(pgrep -f RobloxPlayer)
+kill -9 $(pgrep -f RobloxStudio)
 
-robloxLocation="/Applications/Roblox.app/Contents/Resources/content/textures"
+robloxLocation="/Applications/RobloxStudio.app/Contents/Resources/content/textures"
 
 cfd1="$robloxLocation/Cursors/KeyboardMouse"
 
