@@ -1,6 +1,7 @@
 # Roblox Mouse Changer for macOS
 <br>
 To run "./player.sh" you have to enter this command:
+
 ```sh
 chmod 755 ./player.sh
 ```
@@ -8,6 +9,7 @@ in the same directory as the file
 <br>
 ## Running the command
 To run the command use:
+
 ```sh
 ./player.sh
 ```
@@ -20,6 +22,7 @@ The images must be 64 x 64 to work.
 
 # Studio .sh
 To run "./studio.sh" you have to enter this command:
+
 ```sh
 chmod 755 ./studio.sh
 ```
@@ -27,6 +30,7 @@ in the same directory as the file
 <br>
 ## Running the command
 To run the command use:
+
 ```sh
 ./studio.sh
 ```
